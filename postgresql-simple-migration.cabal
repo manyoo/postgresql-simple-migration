@@ -42,7 +42,7 @@ Library
                             bytestring                  >= 0.10     && < 0.11,
                             cryptohash                  >= 0.11     && < 0.12,
                             directory                   >= 1.2      && < 1.3,
-                            postgresql-simple           >= 0.4      && < 0.5,
+                            postgresql-simple           >= 0.4,
                             time                        >= 1.4
 
 Executable migrate
@@ -56,7 +56,7 @@ Executable migrate
                             bytestring                  >= 0.10     && < 0.11,
                             cryptohash                  >= 0.11     && < 0.12,
                             directory                   >= 1.2      && < 1.3,
-                            postgresql-simple           >= 0.4      && < 0.5,
+                            postgresql-simple           >= 0.4,
                             time                        >= 1.4,
                             text                        >= 1.2      && < 1.3
 
