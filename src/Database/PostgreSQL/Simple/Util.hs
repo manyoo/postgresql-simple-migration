@@ -1,3 +1,4 @@
+{-# LANGUAGE OverloadedStrings #-}
 -- |
 -- Module      : Database.PostgreSQL.Simple.Util
 -- Copyright   : (c) 2014 Andreas Meingast <ameingast@gmail.com>
